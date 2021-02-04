@@ -183,6 +183,27 @@ button{
   flex: 1;
 }
 
+.product-summary{
+  display: flex;
+  justify-content: space-between;
+}
+
+.product-summary p{
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.product-content-two{
+  margin-right: 100px;
+}
+.product-content-three, .product-content-four {
+  margin-left: 50px;
+}
+.product-content-main-two{
+  display: flex;
+  justify-content: space-around;
+}
+
 footer{
   padding: 1em;
   background: #303030;
