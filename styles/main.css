@@ -49,6 +49,11 @@ header{
   width: 512px;
 }
 
+.row{
+  display: flex;
+  flex-direction: row;
+}
+
 h1{
   margin: 0;
   font-family: 'Heartbeat';
