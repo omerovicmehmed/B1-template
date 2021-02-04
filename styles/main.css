@@ -205,7 +205,13 @@ footer{
 */
 
 @media (max-width: 480px) {
+  .hidden-on-Ig{
+    display: block;
+  }
 
+  .hidden-on-sm{
+    display: none;
+  }
 }
 
 /* 
