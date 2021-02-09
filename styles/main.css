@@ -127,11 +127,11 @@ article:last-of-type{
 
 article h2{
   margin: 0;
-  padding: 1.5em;
+  padding: 5px;
   border-left: none;
   background-position: center;
   background-size: cover;
-  text-align: center;
+  text-align: left;
   text-shadow: 
     0 0 0 #FCFCFC,
     -1px 1px 0 #FCFCFC,
