@@ -60,6 +60,19 @@ header{
   padding: 1em;
 }
 
+.product-content{
+  display: flex;
+}
+
+.product-content p{
+  margin: 0px;
+}
+
+
+.mug-image{
+  padding-right: 15px;
+}
+
 h1{
   margin: 0;
   font-family: 'Heartbeat';
@@ -234,6 +247,14 @@ footer{
 
   .hidden-on-sm{
     display: none;
+  }
+
+  .product-content{
+    display: block;
+  }
+
+  .mug-image img{
+    width: 350px;
   }
 }
 
